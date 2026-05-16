@@ -1,0 +1,7 @@
+{
+  "name": "gemba-tokenizers-from-scratch",
+  "version": "0.1.0",
+  "description": "Skill y comandos para experimentar conversacionalmente con los tres tokenizadores subword implementados desde cero (BPE, Unigram+Viterbi, WordPiece).",
+  "author": "José Ramón Pérez Agüera",
+  "license": "MIT"
+}
