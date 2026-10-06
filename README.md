@@ -15,7 +15,7 @@ Este repositorio no es código de producción. Es código **para entender**. Cad
 ## Empezar en 30 segundos
 
 ```bash
-git clone https://github.com/josemerca/gemba-tokenizers-from-scratch.git
+git clone https://github.com/joseperezaguera/gemba-tokenizers-from-scratch.git
 cd gemba-tokenizers-from-scratch
 python3 src/bpe.py
 python3 src/unigram_viterbi.py
@@ -84,7 +84,7 @@ O simplemente abre Claude Code en este directorio y pregunta directamente.
 
 Estas implementaciones están escritas para que la lógica del algoritmo sea visible y fácil de seguir, no para ser rápidas ni para ser equivalentes a las librerías de referencia. Para tokenizar en producción usa [`tiktoken`](https://github.com/openai/tiktoken) (OpenAI), [`transformers`](https://github.com/huggingface/transformers) de HuggingFace o [`sentencepiece`](https://github.com/google/sentencepiece).
 
-Si lo que quieres es **calcular el coste real** de un texto en varios modelos comerciales, mira el repo hermano: [`gemba-token-cost-calculator`](https://github.com/josemerca/gemba-token-cost-calculator). Uno para entender, el otro para decidir.
+Si lo que quieres es **calcular el coste real** de un texto en varios modelos comerciales, mira el repo hermano: [`gemba-token-cost-calculator`](https://github.com/joseperezaguera/gemba-token-cost-calculator). Uno para entender, el otro para decidir.
 
 ## Tests
 
