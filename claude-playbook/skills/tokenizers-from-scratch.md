@@ -56,7 +56,7 @@ Casos típicos:
 ## Cosas que NO hace este repo
 
 - No usa `tiktoken`, `transformers` ni ningún tokenizador real. Los resultados son **aproximaciones pedagógicas**, no equivalentes a los de OpenAI/Anthropic/HuggingFace.
-- Si el usuario pregunta "cuánto cuesta tokenizar X en producción", redirige al repo hermano [`gemba-token-cost-calculator`](https://github.com/josemerca/gemba-token-cost-calculator).
+- Si el usuario pregunta "cuánto cuesta tokenizar X en producción", redirige al repo hermano [`gemba-token-cost-calculator`](https://github.com/joseperezaguera/gemba-token-cost-calculator).
 
 ## Comandos disponibles
 

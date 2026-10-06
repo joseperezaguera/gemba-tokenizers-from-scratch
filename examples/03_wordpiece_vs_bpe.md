@@ -52,4 +52,4 @@ Los tres algoritmos están resolviendo el mismo problema —construir un vocabul
 2. **El criterio de fusión cambia qué vocabulario aprendes.** Y el vocabulario que aprendes cambia cuántos tokens consume cada texto en producción.
 3. **Cuántos tokens consume cada texto cambia tu factura.** Por eso la elección del tokenizador no es un detalle técnico.
 
-> Si quieres calcular cuánto te costaría un texto real con tokenizadores reales (`tiktoken`, HuggingFace, Anthropic), salta al repo hermano: [`gemba-token-cost-calculator`](https://github.com/josemerca/gemba-token-cost-calculator).
+> Si quieres calcular cuánto te costaría un texto real con tokenizadores reales (`tiktoken`, HuggingFace, Anthropic), salta al repo hermano: [`gemba-token-cost-calculator`](https://github.com/joseperezaguera/gemba-token-cost-calculator).
